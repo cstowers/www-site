@@ -50,7 +50,7 @@ const NewsView = () => (
 					</NewsContent>
 				</Col>
 			</NewsRow>
-			<BtnReadMore outline>Read more</BtnReadMore>
+			<Link to=''><BtnReadMore outline>Read more</BtnReadMore></Link>
 		</Container>
 	</Warpper>
 )
